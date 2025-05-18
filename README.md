@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://avatars.githubusercontent.com/u/54821554?v=4&size=64)"  />
 
 ###
 
