@@ -1,8 +1,7 @@
 <h2 align="left"></h2>
 
-###I'm Aiden Tran
-
-###
+### [I'm Aiden Tran](aidentran.dev)
+I'm an 18 year old programmer with 6+ years of experience using C++, C#, Python, Lua, and Java. I love building websites, games, and more!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
