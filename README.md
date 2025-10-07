@@ -1,6 +1,6 @@
 <h2 align="left"></h2>
 
-# [I'm Aiden Tran](aidentran.dev)
+# [I'm Aiden Tran](www.aidentran.dev)
 ### I'm an 18 year old programmer with 6+ years of experience building games, websites, and more!
 
 ## Things I Know:
