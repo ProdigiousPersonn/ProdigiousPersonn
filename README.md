@@ -1,9 +1,6 @@
-<h2 align="left"></h2>
 
 # [I'm Aiden Tran](https://aidentran.dev/)
-### I'm an 18 year old programmer with 6+ years of experience building games, websites, and more!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdigiousPersonn&show_icons=true&theme=gruvbox)
+### I'm an 18 year old programmer with 6+ years of experience building games, websites, and interactive systems
 
 ## Things I Know:
 <div align="center">
