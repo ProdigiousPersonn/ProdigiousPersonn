@@ -3,6 +3,8 @@
 # [I'm Aiden Tran](https://aidentran.dev/)
 ### I'm an 18 year old programmer with 6+ years of experience building games, websites, and more!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProdigiousPersonn)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Things I Know:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
