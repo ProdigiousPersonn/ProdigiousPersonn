@@ -19,3 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
 </div>
+
+## Currently Working On:
+* ChromaClash
+  - A 2D fighting game with rollback netcode
+* ML Models
+  - A C++ library implementing machine learning algorithms from scratch.
