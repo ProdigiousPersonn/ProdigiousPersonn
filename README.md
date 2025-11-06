@@ -2,6 +2,12 @@
 # [I'm Aiden Tran](https://aidentran.dev/)
 ### I'm an 18 year old programmer with 6-7+ years of experience building games, websites, and interactive systems
 
+## Currently Working On:
+* ChromaClash
+  - A 2D fighting game with rollback netcode
+* ML Models
+  - A C++ library implementing machine learning algorithms from scratch.
+
 ## Things I Know:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -19,9 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
 </div>
-
-## Currently Working On:
-* ChromaClash
-  - A 2D fighting game with rollback netcode
-* ML Models
-  - A C++ library implementing machine learning algorithms from scratch.
