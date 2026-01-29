@@ -1,10 +1,15 @@
 
-[<img src="Banner.png" height="300"/>](https://aidentran.dev/)
+<div align="center">
+  <a href="https://aidentran.dev/">
+    <img src="Banner.png" height="300" alt="Aiden Tran Portfolio" />
+  </a>
+</div>
+
 ## Working On:
 * ChromaClash
   - A 2D fighting game with rollback netcode
 * ML Models
-  - C++ ML library implementing models and matrix operations from scratch 
+  - A C++ library implementing machine learning algorithms from scratch.
 
 ## Languages:
 <div align="center">
