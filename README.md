@@ -1,5 +1,5 @@
 
-# [<img src="Banner.png" height="60"/>](https://aidentran.dev/)
+# [<img src="Banner.png" height="500"/>](https://aidentran.dev/)
 ## Currently Working On:
 * ChromaClash
   - A 2D fighting game with rollback netcode
