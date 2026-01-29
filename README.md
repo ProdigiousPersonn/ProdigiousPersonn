@@ -4,7 +4,7 @@
 * ChromaClash
   - A 2D fighting game with rollback netcode
 * ML Models
-  - A C++ library implementing machine learning algorithms from scratch.
+  - C++ ML library implementing models and matrix operations from scratch 
 
 ## Languages:
 <div align="center">
