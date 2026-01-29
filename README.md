@@ -1,6 +1,6 @@
 
-# [<img src="Banner.png" height="350" align="center"/>](https://aidentran.dev/)
-## Currently Working On:
+[<img src="Banner.png" height="300"/>](https://aidentran.dev/)
+## Working On:
 * ChromaClash
   - A 2D fighting game with rollback netcode
 * ML Models
