@@ -1,5 +1,5 @@
 
-# [<img src="Banner.png" alt="html5 logo"/>](https://aidentran.dev/)
+# [<img src="Banner.png"/>](https://aidentran.dev/)
 ### I'm an 18 year old programmer and student at UC Berkeley with 6-7+ years of experience building games, websites, and interactive systems
 
 ## Currently Working On:
