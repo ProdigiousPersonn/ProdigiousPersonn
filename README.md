@@ -1,7 +1,5 @@
 
-# [<img src="Banner.png"/>](https://aidentran.dev/)
-### I'm an 18 year old programmer and student at UC Berkeley with 6-7+ years of experience building games, websites, and interactive systems
-
+# [<img src="Banner.png" height="60"/>](https://aidentran.dev/)
 ## Currently Working On:
 * ChromaClash
   - A 2D fighting game with rollback netcode
